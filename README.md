@@ -1,1 +1,1 @@
-# proyecto16
+# ExplotarGlobos2-plantilla
